@@ -1,0 +1,7 @@
+===Database covidapp
+
+== Dumping data for table covidhealthofficials
+
+|1|kent|kent@covid|12345678|NULL|2021-01-29 09:54:02|2021-01-29 09:54:02
+|2|bruno|bruno@covid|12345678|NULL|2021-01-29 09:58:04|2021-01-29 09:58:04
+|3|bob|bob@covid|12345678|NULL|2021-01-29 10:08:18|2021-01-29 10:08:18
